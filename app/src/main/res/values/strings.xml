@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">InnPets</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <!-- MAIN -->
+    <string name="bienvenida">¡Bienvenido!</string>
+    <string name="a">a</string>
+    <string name="texto1">¿Necesitas un lugar apropiado para dejar tu mascota?</string>
+    <string name="texto2">¡Aquí encontrarás personas dispuestas a ayudarte!</string>
+    <string name="texto3">¿Qué esperas?¡Comienza ya!</string>
+    <string name="todo">TODO</string>
+    <string name="btnContinuar">Continuar</string>
+    <!-- LOGIN -->
+    <string name="textoLogin1">Iniciar Sesión</string>
+    <string name="textoLogin2">Ingresa tu correo electrónico</string>
+    <string name="correo">juanitocamina@......</string>
+    <string name="textoLogin3">Ingresa tu contraseña</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="recuperacionDecontrania"><u>¿Has olvidado tu contraseña?</u></string>
+    <string name="btnIniciarSesion">Iniciar sesión</string>
+    <string name="btnRegistrarse">Registrarse</string>
+    <!-- REGISTRO -->
+    <string name="textoRegistro1">Registro de usuario</string>
+    <string name="textoRegistro2">Nombres:*</string>
+    <string name="textoRegistro3">Apellidos:*</string>
+    <string name="textoRegistro4">RUT:*</string>
+    <string name="textoRegistro5">Correo Electrónico:*</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <!-- REGISTRO 2-->
+    <string name="TextoRegistro2.1">Fecha de nacimiento:*</string>
+    <string name="textoRegistro2.2">Sexo:*</string>
+    <string name="rbMasculino">Masculino</string>
+    <string name="rbFemenino">Femenino</string>
+    <string name="textoRegistro2.3">Región:*</string>
+    <string name="textoRegistro2.4">Comuna:*</string>
+    <string name="textoRegistro2.5">Ciudad:*</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- PAGINA PRINCIPAL-->
+    <!-- MENU LATERAL-->
+    <string name="textoMenu1">Sobre Nosotros</string>
+    <string name="textoMenu2">Experiencias</string>
+    <string name="textoMenu3">Historial</string>
+    <string name="textoMenu4">Preguntas Frecuentes</string>
+    <string name="textoMenu5">Contacto</string>
+    <!-- DRAWER-->
+    <string name="abrir_drawer">Drawer abierto</string>
+    <string name="cerrar_drawer">Drawer cerrado</string>
+    <!-- RECUPERAR CUENTA-->
+    <string name="textoRecuperar1">Ingrese su Correo Electronico</string>
+    <string name="btnEnviar">Enviar</string>
+    <!-- REGISTRO 3-->
+    <string name="textoRegistro3.1">Crear una contraseña:*</string>
+    <string name="textoRegistro3.2">Vuelva a ingresar contraseña:*</string>
+    <string name="textoRegistro3.3">Aceptar terminos y condiciones.</string>
+    <string name="textoRegistro3.4">Quiero recibir notificaciones a mi correo</string>
+    <string name="btnRegistrar">Registrarse</string>
+</resources>

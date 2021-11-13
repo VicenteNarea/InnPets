@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="region">
+        <item>Seleccionar</item>
+        <item>Atacama</item>
+        <item>BioBio</item>
+
+    </string-array>
+</resources>

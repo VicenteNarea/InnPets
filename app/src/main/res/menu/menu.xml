@@ -16,4 +16,7 @@
     <item
         android:id="@+id/op5"
         android:title="@string/textoMenu5" />
+    <item
+        android:id="@+id/op7"
+        android:title="@string/textoMenu6" />
 </menu>

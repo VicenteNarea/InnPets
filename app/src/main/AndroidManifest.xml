@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.InnPets">
         <activity
+            android:name=".Principal1"
+            android:exported="true" />
+        <activity
             android:name=".Registro3"
             android:exported="true" />
         <activity

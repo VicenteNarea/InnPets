@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45749596048",
+    "project_id": "fir-1a6a6",
+    "storage_bucket": "fir-1a6a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45749596048:android:4ca0ac37f4d6b102a70d15",
+        "android_client_info": {
+          "package_name": "com.example.innpets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45749596048-b1k0rijnof0n900vej9nl3vb5jdit841.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQZ79LVAvwcFfbwLUvN5j9UnTLGXhoVi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45749596048-b1k0rijnof0n900vej9nl3vb5jdit841.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -23,6 +23,7 @@
     <string name="recuperacionDecontrania"><u>¿Has olvidado tu contraseña?</u></string>
     <string name="btnIniciarSesion">Iniciar sesión</string>
     <string name="btnRegistrarse">Registrarse</string>
+    <string name="cbRecuerdame">Recuerdame</string>
     <!-- REGISTRO -->
     <string name="textoRegistro1">Registro de usuario</string>
     <string name="textoRegistro2">Nombres:*</string>
@@ -41,12 +42,16 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <!-- PAGINA PRINCIPAL-->
+    <string name="reservaRapida">Reserva rapida</string>
+    <string name="reservaPersonalizada">Reserva personalizada</string>
+    <string name="Destacados">Destacados</string>
     <!-- MENU LATERAL-->
     <string name="textoMenu1">Sobre Nosotros</string>
     <string name="textoMenu2">Experiencias</string>
     <string name="textoMenu3">Historial</string>
     <string name="textoMenu4">Preguntas Frecuentes</string>
     <string name="textoMenu5">Contacto</string>
+    <string name="textoMenu6">Cerrar sesión</string>
     <!-- DRAWER-->
     <string name="abrir_drawer">Drawer abierto</string>
     <string name="cerrar_drawer">Drawer cerrado</string>

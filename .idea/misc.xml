@@ -6,6 +6,7 @@
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/activity_inicio.xml" value="0.25" />
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/activity_loigin.xml" value="0.33" />
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/activity_principal1.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/activity_recuperar_cuenta.xml" value="0.35507246376811596" />
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/activity_registro.xml" value="0.33" />
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/activity_registro2.xml" value="0.34057971014492755" />
@@ -16,8 +17,12 @@
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/fragment_favoritos.xml" value="0.35507246376811596" />
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/fragment_first.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/fragment_principal.xml" value="0.33061594202898553" />
+        <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/fragment_principal1.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/fragment_second.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/header.xml" value="0.3641304347826087" />
+        <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/lista_personas.xml" value="0.25" />
+        <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/prueba_fragment.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/recycle.xml" value="0.1" />
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/layout/toolbar.xml" value="0.3641304347826087" />
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Tanji/AndroidStudioProjects/InnPets/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />

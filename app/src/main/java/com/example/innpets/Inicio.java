@@ -40,14 +40,15 @@ public class Inicio extends AppCompatActivity {
                 int position = tab.getPosition();
                 switch (position){
                     case 0:
-                        //llamar al fragmento  inicio
-                        Principal p = new Principal();
-                        getSupportFragmentManager().beginTransaction().replace(R.id.contenedor,p).commit();
+                        //llamar al fragmento  principal
+                        Chat c = new Chat();
+                        getSupportFragmentManager().beginTransaction().replace(R.id.contenedor,c).commit();
+
                         break;
                     case 1:
                         //llamar al fragmento chat
-                        Chat c = new Chat();
-                        getSupportFragmentManager().beginTransaction().replace(R.id.contenedor,c).commit();
+                        Principal p = new Principal();
+                        getSupportFragmentManager().beginTransaction().replace(R.id.contenedor,p).commit();
                         break;
                     case 2:
                         //llamar al fragmento favoritos
